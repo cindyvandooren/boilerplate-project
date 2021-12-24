@@ -1,15 +1,17 @@
-#Animations
+# Boilerplate Project
 
-##Starting the project in development mode
-Run:
+This is an example project with Typescript, scss and webpack. The project has linting setup using ESLint, Stylelint and prettier.
+
+## Starting the project in development mode
+
+```
 npm start
+```
+
 You'll find the project at localhost:3000
 
-For a production build, run:
+## Starting a production build
+
+```
 npm run build
-
-Webpack applies the loaders from last to first
-
-TODO: Prettier, stylelint en tslint toevoegen
-TODO: Fix use double quotes everywhere
-p
+```
